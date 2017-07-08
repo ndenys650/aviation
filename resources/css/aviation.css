@@ -1,0 +1,62 @@
+/* Universal Styles */
+
+#back {
+  background-color: black;
+}
+
+/* Banner */
+
+#main {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+#body {
+  background-color: white;
+  text-align: center;
+}
+
+#toplinks {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  text-decoration: underline;
+}
+
+#backgroundpic {
+  background-image: url(https://scontent-ort2-1.cdninstagram.com/t51.2885-15/e35/12256832_930080583706207_1162487888_n.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#designed {
+  font-family: Helvetica;
+  font-size: 23px;
+  color: white;
+  font-weight: bold;
+}
+
+
+
+/* Footer */
+
+footer {
+  background-color: grey;
+  padding: 1.5rem 2rem;
+}
+
+footer .content {
+  color: white;
+  display: flex;
+  font-size: .75rem;
+}
+
+footer .copyright {
+  flex-grow: 1;
+  padding-left: 24px;
+}
+
+#nav {font-size: 18px;
+color: white;}
